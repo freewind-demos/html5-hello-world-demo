@@ -1,0 +1,2 @@
+- `<!DOCTYPE html>` 是HTML5文档的声明
+- `section` 是HTML5中新增加的标签

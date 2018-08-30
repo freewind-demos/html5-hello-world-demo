@@ -1,5 +1,5 @@
-Html Hello World Demo
-=====================
+Html5 Hello World Demo
+======================
 
 ```
 open index.html
